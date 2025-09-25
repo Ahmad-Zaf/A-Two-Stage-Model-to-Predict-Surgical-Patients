@@ -24,4 +24,4 @@ Key insights include:
 
 SCREENSHOTS AVAILABLE IN ASSETS FOLDER--
 
-(Asset)(https://github.com/Ahmad-Zaf/A-Two-Stage-Model-to-Predict-Surgical-Patients/tree/cf569c18130070675783f627af9bb4cc599af31f/Asset)
+[Asset](https://github.com/Ahmad-Zaf/A-Two-Stage-Model-to-Predict-Surgical-Patients/tree/cf569c18130070675783f627af9bb4cc599af31f/Asset)
