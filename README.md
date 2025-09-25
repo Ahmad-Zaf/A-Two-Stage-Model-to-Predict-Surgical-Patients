@@ -18,10 +18,10 @@ It identifies key patient attributes that explain resource variability
 
 Key insights include:
 
-📊 Important covariates such as procedure code, admission point, and operating surgeon explain up to 53.43% of the variability in patients’ length of stay (LoS).
+1) Important covariates such as procedure code, admission point, and operating surgeon explain up to 53.43% of the variability in patients’ length of stay (LoS).
 
-⏱️ By reducing uncertainty in LoS predictions, the model enables better patient flow management, improved throughput, and more efficient use of hospital resources
+2) By reducing uncertainty in LoS predictions, the model enables better patient flow management, improved throughput, and more efficient use of hospital resources
 
 SCREENSHOTS AVAILABLE IN ASSETS FOLDER--
 
-![Asset](https://github.com/Ahmad-Zaf/A-Two-Stage-Model-to-Predict-Surgical-Patients/tree/cf569c18130070675783f627af9bb4cc599af31f/Asset)
+(Asset)(https://github.com/Ahmad-Zaf/A-Two-Stage-Model-to-Predict-Surgical-Patients/tree/cf569c18130070675783f627af9bb4cc599af31f/Asset)
